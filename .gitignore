@@ -1,0 +1,9 @@
+swinkler.pem
+proxy.sh
+server/vendor/*
+!server/vendor/vendor.json
+client/build
+client/node_modules
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+.terraform
